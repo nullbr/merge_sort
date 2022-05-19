@@ -1,5 +1,3 @@
-@n = 0
-
 def merge_sort(arr, result = [])
   p arr
   return arr if arr.length < 2
